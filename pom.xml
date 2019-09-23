@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.javastreets</groupId>
-	<artifactId>say-hello-mule4-docker</artifactId>
+	<artifactId>hello-mule4</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule-application</packaging>
 
-	<name>say-hello-mule4-docker-docker</name>
+	<name>hello-mule4</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
